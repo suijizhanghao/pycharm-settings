@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (myPython)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="D:\03_myfun\myPython\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/01_dvlp/python3.7.2/DLLs" type="simple" />
+            <root url="file://D:/01_dvlp/python3.7.2/Lib" type="simple" />
+            <root url="file://D:/01_dvlp/python3.7.2" type="simple" />
+            <root url="file://D:/03_myfun/myPython/venv" type="simple" />
+            <root url="file://D:/03_myfun/myPython/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/03_myfun/myPython/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/03_myfun/myPython/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://D:/01_dvlp/myfun/.PyCharm/system/python_stubs/398087191" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/03_myfun/myPython" />
+    </jdk>
+  </component>
+</application>
